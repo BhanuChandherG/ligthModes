@@ -1,0 +1,46 @@
+.App-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 24px;
+    }
+    .remo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 200px;
+        margin-bottom: 120px;
+        margin-left: 360px;
+        margin-right: 120px;
+
+    }
+  .bg-container{
+    width: 460px;
+    display: flex;
+    justify-content: center;
+
+  }
+.container{
+    text-align: center;
+    border-radius: 12px;
+    padding: 24px;
+  
+
+}
+.lightMode{
+    background-color: #fff;
+    color: #000000;
+    border: 1px solid #000000;
+}
+.darkMode{
+    
+    color: #fff;
+    background-color: #000000;
+}
+.button{
+    font-size: 16px;
+    border: none;
+    padding: 16px;
+    border-radius: 8px;
+}
